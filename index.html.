@@ -1,1 +1,38 @@
-https://github.com/Shelonin/try-one/new/main
+<html>
+    <title>Название сайта</title>
+    <body>
+        <header>
+            Шапка
+        <img src="https://free-png.ru/wp-content/uploads/2022/06/free-png.ru-441.png" width="150px" height="150px">
+        <a href="#What" style="color:blue; font size: 30px">Таблица</a>
+        </header>
+        <main>
+            <h1>Заголовок</h1>
+            <h2>Подзаголовок</h2>
+            <p>Письменная история — исторический нарратив (повествование), основанный на исторических записях или иных документальных материалах. Письменная история отличается от других нарративов прошлого, таких как мифы, устные традиции или традиции материальной культуры.</p>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Novgorod_Codex_-_colour.jpg/220px-Novgorod_Codex_-_colour.jpg">
+        </main>
+        <footer>
+            Подвал
+      </footer>
+    </body>
+</html>
+        <table style="background-color:Chartreuse;" id="What">
+            <tr>
+                <td>
+                    Ячейка1
+                </td>
+                <td>
+                    Ячейка2
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    Ячейка3
+                </td>
+                <td>
+                    Ячейка4
+                </td>
+            </tr>
+        </table>
+        
