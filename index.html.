@@ -17,22 +17,3 @@
       </footer>
     </body>
 </html>
-        <table style="background-color:Chartreuse;" id="What">
-            <tr>
-                <td>
-                    Ячейка1
-                </td>
-                <td>
-                    Ячейка2
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    Ячейка3
-                </td>
-                <td>
-                    Ячейка4
-                </td>
-            </tr>
-        </table>
-        
